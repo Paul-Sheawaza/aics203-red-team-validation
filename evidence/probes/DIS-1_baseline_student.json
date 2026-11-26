@@ -1,0 +1,10 @@
+{
+  "scenario": "disclosure",
+  "mode": "baseline",
+  "simulated_user_role": "student",
+  "policy_pass": false,
+  "authorized": true,
+  "finding": "synthetic_restricted_marker_disclosed",
+  "result": "ICDFA-DEMO-RESTRICTED-7319",
+  "disclaimer": "Deterministic offline teaching simulator, not a generative AI model."
+}

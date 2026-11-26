@@ -1,0 +1,10 @@
+{
+  "scenario": "output",
+  "mode": "hardened",
+  "simulated_user_role": "student",
+  "policy_pass": true,
+  "authorized": true,
+  "finding": "output_encoded",
+  "result": "Tom &amp; Jerry &lt;a href=&quot;javascript:LAB&quot;&gt;click&lt;/a&gt;",
+  "disclaimer": "Deterministic offline teaching simulator, not a generative AI model."
+}

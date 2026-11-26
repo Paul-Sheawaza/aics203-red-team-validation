@@ -1,0 +1,6 @@
+.ssh/
+id_*
+*.pem
+*.key
+*.zip
+__pycache__/

@@ -1,0 +1,10 @@
+{
+  "scenario": "tool",
+  "mode": "hardened",
+  "simulated_user_role": "student",
+  "policy_pass": true,
+  "authorized": false,
+  "finding": "least_privilege_enforced",
+  "result": "Permission denied: approval requires instructor role.",
+  "disclaimer": "Deterministic offline teaching simulator, not a generative AI model."
+}

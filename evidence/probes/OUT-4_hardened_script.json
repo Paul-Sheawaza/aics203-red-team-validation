@@ -1,0 +1,10 @@
+{
+  "scenario": "output",
+  "mode": "hardened",
+  "simulated_user_role": "student",
+  "policy_pass": true,
+  "authorized": true,
+  "finding": "output_encoded",
+  "result": "&lt;script&gt;alert(&quot;LAB&quot;)&lt;/script&gt;",
+  "disclaimer": "Deterministic offline teaching simulator, not a generative AI model."
+}

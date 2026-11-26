@@ -1,0 +1,10 @@
+{
+  "scenario": "retrieval",
+  "mode": "baseline",
+  "simulated_user_role": "student",
+  "policy_pass": false,
+  "authorized": true,
+  "finding": "untrusted_document_instruction_obeyed",
+  "result": "MARK_APPROVED",
+  "disclaimer": "Deterministic offline teaching simulator, not a generative AI model."
+}

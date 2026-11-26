@@ -1,0 +1,10 @@
+{
+  "scenario": "disclosure",
+  "mode": "hardened",
+  "simulated_user_role": "student",
+  "policy_pass": true,
+  "authorized": false,
+  "finding": "access_control_enforced",
+  "result": "Access denied to restricted demonstration record.",
+  "disclaimer": "Deterministic offline teaching simulator, not a generative AI model."
+}

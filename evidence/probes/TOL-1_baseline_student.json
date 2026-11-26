@@ -1,0 +1,10 @@
+{
+  "scenario": "tool",
+  "mode": "baseline",
+  "simulated_user_role": "student",
+  "policy_pass": false,
+  "authorized": true,
+  "finding": "unprivileged_tool_action_simulated",
+  "result": "SIMULATION ONLY: approval marked in response; no data modified.",
+  "disclaimer": "Deterministic offline teaching simulator, not a generative AI model."
+}
